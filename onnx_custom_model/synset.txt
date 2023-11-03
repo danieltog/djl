@@ -1,0 +1,13 @@
+ethernet
+fiber-1
+fiber-2
+fiber-3
+VGA
+USB
+serial
+console
+energy
+HDMI
+fiber-1
+ETHERNET
+
